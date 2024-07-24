@@ -58,13 +58,13 @@ function App() {
     },
     {
       date: "2024-03-16",
-      startTime: "19:00",
+      startTime: "17:00",
       endTime: "21:00",
       employeeName: "Alex",
     },
     {
       date: "2024-03-17",
-      startTime: "16:00",
+      startTime: "18:00",
       endTime: "20:00",
       employeeName: "Omondi",
     },
